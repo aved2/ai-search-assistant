@@ -1,4 +1,4 @@
 streamlit
 openai
 phidata
-duckduckgo
+duckduckgo_search
